@@ -1,0 +1,95 @@
+body {
+	background-image: url(background6.png);
+}
+
+#wrapper {
+	border: 3px solid Black;
+	width: 90%;
+	height: 90%;
+	margin-top: 2.5%;
+	margin-left: 5%;
+}
+
+#box1 {
+	outline: 3px solid White;
+	outline-offset: -2px;
+	width: 25%;
+	height: 70%;
+	text-align: center;
+	display: inline-block;
+    float: left;
+	background-color: Black;
+	color: White;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	background-image: url(background2.png)
+}
+#box2 {
+	outline: 3px solid White;
+	outline-offset: -2px;
+	width: 50%;
+	height: 60%;
+	text-align: center;
+	display: inline-block;
+    float: left;
+	background-color: Black;
+	color: White;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	background-image: url(background2.png)
+}
+#box4 {
+	outline: 3px solid White;
+	outline-offset: -2px;
+	width: 25%;
+	height: 70%;
+	text-align: center;
+	display: inline-block;
+    float: left;
+	background-color: Black;
+	color: White;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	background-image: url(background2.png)
+}
+#box5 {
+	outline: 3px solid White;
+	width: 100%;
+	height: 30%;
+	float: left;
+	background-color: Black;
+	color: White;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	background-image: url(background2.png)
+}
+#menutable td{
+	height: 25%;
+	width: 25%;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+#menutable td:hover{
+	background-image: url(background3.png);
+	background-position: center;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 10px;
+	border: 3px solid White;
+}
+#miniwrap{
+	margin-top: 30%;
+	margin-left:25%;
+	margin-right: 25%
+}
+
